@@ -8,7 +8,7 @@ public class DemoController {
 	
 	@GetMapping("/test")
 	String testMethod() {
-		return "test new response";
+		return "test   response";
 	}
 
 }
